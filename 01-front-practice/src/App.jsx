@@ -1,6 +1,6 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
-import Layout from "./pages/Layout";
+import Layout from "./layouts/Layout";
 import HelpCenter from "./pages/HelpCenter";
 import UsingAbstract from "./pages/UsingAbstract";
 

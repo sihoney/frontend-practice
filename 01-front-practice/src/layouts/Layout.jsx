@@ -105,7 +105,7 @@ function Footer() {
 
 export default function Layout() {
   return (
-    <div>
+    <div className="flex flex-col w-full min-h-screen">
       <Header />
       <main className="flex-grow">
         <Outlet />
